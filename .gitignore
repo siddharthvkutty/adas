@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ADAS generated output
+workspace/
+erreport.txt
+
+# graphify
+graphify-out/
+
+# local/session scratch
+# claude-resume
